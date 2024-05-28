@@ -1,3 +1,3 @@
 # Hello!
 ### I'm NotPikachu!
-#### I'm doing various thing
+#### I'm doing various things
