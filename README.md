@@ -8,3 +8,4 @@ Currently learning C because it's fun!
 #### Random Ideas I've had
 - A bank for play coins on 3ds, possibly with real interest rates 
 - A better camera app for 3ds
+- Really just port a bunch of normal phone apps to 3DS
