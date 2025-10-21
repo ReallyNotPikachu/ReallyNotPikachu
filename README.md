@@ -4,6 +4,7 @@
 Currently learning C because it's fun!
 #### Active Projects
 - Pearto Player, a music player in C for desktop and 3DS
+- TodoCE, a todolist application in C for TI 84 Plus CE calculators
 
 #### Random Ideas I've had
 - More AMD A6-3400M™ optimized software
